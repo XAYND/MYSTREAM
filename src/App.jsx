@@ -9,8 +9,8 @@ function App() {
   };
 
   const channels = [
-    { name: "Canal+Sport-360", url: "https://direct-streamfr.live/player.php?id=12", image: "/assets/Canal-plus-sport-360.jpg" },
-    { name: "Canal+", url: "https://direct-streamfr.live/player.php?id=40", image: "/assets/canalplus-logo.jpg" },
+    { name: "Canal+Sport-360", url: "https://direct-streamfr.live/player.php?id=12", image: "/MYSTREAM/assets/Canal-plus-sport-360.jpg" },
+    { name: "Canal+", url: "https://direct-streamfr.live/player.php?id=40", image: "assets/canalplus-logo.jpg" },
     { name: "Canal+Formula", url: "https://daddylive.mp/stream/stream-273.php", image: "/assets/Canal-Formula-1.jpg" },
     { name: "Canal+Foot", url: "https://direct-streamfr.live/player.php?id=6", image: "/assets/canal-foot.jpg" },
     { name: "BeinSport 1", url: "https://direct-streamfr.live/player.php?id=8", image: "/assets/bein-sports1.jpg" },
